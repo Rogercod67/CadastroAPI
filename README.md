@@ -1,10 +1,10 @@
 # CadastroAPI
 Sistema de cadastro simples de usuário com Java, springBoot E PostgreeSQL. API REST + Front-end em HTML, CSS e JS
 
-🚀 Demonstração
+Demonstração
 Front-end consumindo a API para cadastrar e listar usuários em tempo real.
 
-🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Back-end
 Java 21
@@ -18,13 +18,13 @@ HTML5
 CSS3
 JavaScript
 
-📋 Funcionalidades
+Funcionalidades
  Cadastro de novos usuários
  Listagem de todos os usuários cadastrados
  Atualização de dados do usuário
  Exclusão de usuário
  
-🗃️ Estrutura do Banco de Dados
+Estrutura do Banco de Dados
 A aplicação utiliza uma tabela principal usuarios:
 
 PostegreeSQL
